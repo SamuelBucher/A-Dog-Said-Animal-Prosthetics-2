@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+	
+	<!-- RG_Neutrolope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="Category2" or
+					@Name="Category1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>RG_Neutrolope</li>
+				</value>
+	</Operation>
+	
+	
+	<!-- RG_Rabbit -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="Category1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>RG_Rabbit</li>
+				</value>
+	</Operation>
+	
+	
+	<!-- RG_KiwiBird -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="Category1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>RG_KiwiBird</li>
+				</value>
+	</Operation>
+	
+</Patch>

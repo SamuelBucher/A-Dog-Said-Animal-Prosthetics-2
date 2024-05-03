@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>A Dog Said... Animal Prosthetics 2</name>
+	<author>SamBucher</author>
+	<modVersion>1.0.0</modVersion>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<packageId>SamBucher.ADogSaidAnimalProsthetics2</packageId>
+	<description>Adds prosthetics/bionics and surgeries for animals.</description>
+	<loadAfter>
+		<li>vat.epoeforked</li>
+		<li>mse2.core</li>
+		<li>v1024.ebframework</li>
+		<li>regrowth.botr.core</li>
+		<li>regrowth.botr.boilingforest</li>
+		<li>regrowth.botr.extinctanimalspack</li>
+		<li>regrowth.botr.wastelands</li>
+		<li>vanillaexpanded.vanillaanimalsexpanded</li>
+		<li>vanillaexpanded.vaeendandext</li>
+		<li>vanillaexpanded.vaeroy</li>
+		<li>vanillaexpanded.vaewaste</li>
+	</loadAfter>
+	<incompatibleWith>
+		<li>spoonshortage.adogsaidanimalprosthetics</li>
+	</incompatibleWith>
+</ModMetaData>

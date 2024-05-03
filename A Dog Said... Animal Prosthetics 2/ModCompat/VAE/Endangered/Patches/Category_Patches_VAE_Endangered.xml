@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+	
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="Category3" or
+					@Name="Category2" or
+					@Name="Category1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AEXP_Bonobo</li>
+					<li>AEXP_Panda</li>
+					<li>AEXP_Quagga</li>
+					<li>AEXP_TasmanianDevil</li>
+					<li>AEXP_Thylacine</li>
+					<li>AEXP_AfricanWildDog</li>
+				</value>
+	</Operation>
+	
+	
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="Category2" or
+					@Name="Category1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AEXP_BlackFootedFerret</li>
+					<li>AEXP_BlackRhino</li>
+					<li>AEXP_Moa</li>
+					<li>AEXP_RockhopperPenguin</li>
+					<li>AEXP_Pangolin</li>
+				</value>
+	</Operation>
+	
+</Patch>

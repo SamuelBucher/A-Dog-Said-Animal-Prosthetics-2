@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+	<v1.4>
+		<li>/</li>
+		<li IfModActive="vat.epoeforked">ModCompat/EPOE-Forked</li>
+		<li IfModActive="vat.epoeforked,mse2.core">ModCompat/CommonSubparts</li>
+		<li IfModNotActive="mse2.core">MSE2_Custom_Operations</li>
+		<li IfModActive="mse2.core">ModCompat/MSE2</li>
+		<li IfModActive="regrowth.botr.core">ModCompat/ReGrowth/Core</li>
+		<li IfModActive="regrowth.botr.boilingforest">ModCompat/ReGrowth/Boiling</li>
+		<li IfModActive="regrowth.botr.extinctanimalspack">ModCompat/ReGrowth/Extinct</li>
+		<li IfModActive="regrowth.botr.wastelands">ModCompat/ReGrowth/Wasteland</li>
+		<li IfModActive="vanillaexpanded.vanillaanimalsexpanded">ModCompat/VAE/Core</li>
+		<li IfModActive="vanillaexpanded.vaeendandext">ModCompat/VAE/Endangered</li>
+		<li IfModActive="vanillaexpanded.vaeroy">ModCompat/VAE/Royal</li>
+		<li IfModActive="vanillaexpanded.vaewaste">ModCompat/VAE/Waste</li>
+	</v1.4>
+	<v1.5>
+		<li>/</li>
+		<li IfModActive="vat.epoeforked">ModCompat/EPOE-Forked</li>
+		<li IfModActive="vat.epoeforked,mse2.core">ModCompat/CommonSubparts</li>
+		<li IfModNotActive="mse2.core">MSE2_Custom_Operations</li>
+		<li IfModActive="mse2.core">ModCompat/MSE2</li>
+		<li IfModActive="regrowth.botr.core">ModCompat/ReGrowth/Core</li>
+		<li IfModActive="regrowth.botr.boilingforest">ModCompat/ReGrowth/Boiling</li>
+		<li IfModActive="regrowth.botr.extinctanimalspack">ModCompat/ReGrowth/Extinct</li>
+		<li IfModActive="regrowth.botr.wastelands">ModCompat/ReGrowth/Wasteland</li>
+		<li IfModActive="vanillaexpanded.vanillaanimalsexpanded">ModCompat/VAE/Core</li>
+		<li IfModActive="vanillaexpanded.vaeendandext">ModCompat/VAE/Endangered</li>
+		<li IfModActive="vanillaexpanded.vaeroy">ModCompat/VAE/Royal</li>
+		<li IfModActive="vanillaexpanded.vaewaste">ModCompat/VAE/Waste</li>
+	  </v1.5>
+</loadFolders>
