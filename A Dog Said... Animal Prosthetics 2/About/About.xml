@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>A Dog Said... Animal Prosthetics 2</name>
 	<author>SamBucher</author>
-	<modVersion>1.0.0</modVersion>
+	<modVersion>1.1.0</modVersion>
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
@@ -10,6 +10,7 @@
 	<packageId>SamBucher.ADogSaidAnimalProsthetics2</packageId>
 	<description>Adds prosthetics/bionics and surgeries for animals.</description>
 	<loadAfter>
+		<li>imranfish.xmlextensions</li>
 		<li>vat.epoeforked</li>
 		<li>mse2.core</li>
 		<li>v1024.ebframework</li>
@@ -21,6 +22,8 @@
 		<li>vanillaexpanded.vaeendandext</li>
 		<li>vanillaexpanded.vaeroy</li>
 		<li>vanillaexpanded.vaewaste</li>
+		<li>ACPteam.ACPVanillaStyle</li>
+        <li>Scurvyez.StevesLoons</li>
 	</loadAfter>
 	<incompatibleWith>
 		<li>spoonshortage.adogsaidanimalprosthetics</li>

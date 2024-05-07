@@ -83,13 +83,11 @@
 		</value>
 	</Operation>
 	<Operation Class="PatchOperationAdd">
-		<xpath>/Defs/HediffDef[defName="BionicPawAnimal"]</xpath>
+		<xpath>/Defs/HediffDef[defName="BionicPawAnimal"]/comps</xpath>
 		<value>
-			<comps>
-				<li Class="MSE2.HediffCompProperties_ModuleHolder">
-					<maxModules>1</maxModules>
-				</li>
-			</comps>
+			<li Class="MSE2.HediffCompProperties_ModuleHolder">
+				<maxModules>1</maxModules>
+			</li>
 		</value>
 	</Operation>
 	 
@@ -268,13 +266,11 @@
 		</value>
 	</Operation>
 	<Operation Class="PatchOperationAdd">
-		<xpath>/Defs/HediffDef[defName="BionicHandAnimal"]</xpath>
+		<xpath>/Defs/HediffDef[defName="BionicHandAnimal"]/comps</xpath>
 		<value>
-			<comps>
-				<li Class="MSE2.HediffCompProperties_ModuleHolder">
-					<maxModules>1</maxModules>
-				</li>
-			</comps>
+			<li Class="MSE2.HediffCompProperties_ModuleHolder">
+				<maxModules>1</maxModules>
+			</li>
 		</value>
 	</Operation>
 	 

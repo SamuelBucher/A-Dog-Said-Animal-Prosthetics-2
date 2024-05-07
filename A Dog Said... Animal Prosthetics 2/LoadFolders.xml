@@ -2,6 +2,7 @@
 <loadFolders>
 	<v1.4>
 		<li>/</li>
+		<li IfModActive="imranfish.xmlextensions">ModCompat/XMLExtentions</li>
 		<li IfModActive="vat.epoeforked">ModCompat/EPOE-Forked</li>
 		<li IfModActive="vat.epoeforked,mse2.core">ModCompat/CommonSubparts</li>
 		<li IfModNotActive="mse2.core">MSE2_Custom_Operations</li>
@@ -14,9 +15,12 @@
 		<li IfModActive="vanillaexpanded.vaeendandext">ModCompat/VAE/Endangered</li>
 		<li IfModActive="vanillaexpanded.vaeroy">ModCompat/VAE/Royal</li>
 		<li IfModActive="vanillaexpanded.vaewaste">ModCompat/VAE/Waste</li>
+		<li IfModActive="ACPteam.ACPVanillaStyle">ModCompat/AnimalCollabProject</li>
+        <li IfModActive="Scurvyez.StevesLoons">ModCompat/StevesLoons</li>
 	</v1.4>
 	<v1.5>
 		<li>/</li>
+		<li IfModActive="imranfish.xmlextensions">ModCompat/XMLExtentions</li>
 		<li IfModActive="vat.epoeforked">ModCompat/EPOE-Forked</li>
 		<li IfModActive="vat.epoeforked,mse2.core">ModCompat/CommonSubparts</li>
 		<li IfModNotActive="mse2.core">MSE2_Custom_Operations</li>
@@ -29,5 +33,7 @@
 		<li IfModActive="vanillaexpanded.vaeendandext">ModCompat/VAE/Endangered</li>
 		<li IfModActive="vanillaexpanded.vaeroy">ModCompat/VAE/Royal</li>
 		<li IfModActive="vanillaexpanded.vaewaste">ModCompat/VAE/Waste</li>
+		<li IfModActive="ACPteam.ACPVanillaStyle">ModCompat/AnimalCollabProject</li>
+        <li IfModActive="Scurvyez.StevesLoons">ModCompat/StevesLoons</li>
 	  </v1.5>
 </loadFolders>
