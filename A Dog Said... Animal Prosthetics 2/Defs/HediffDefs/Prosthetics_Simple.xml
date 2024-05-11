@@ -7,6 +7,7 @@
 
 	<ThingDef Name="BodyPartProstheticAnimalBase" ParentName="BodyPartAnimalBase" Abstract="True">
 		<graphicData>
+			<texPath>Things/Item/Health/HealthItemAnimalProsthetic</texPath>
 			<color>(154,124,104)</color>
 		</graphicData>
 		<statBases>

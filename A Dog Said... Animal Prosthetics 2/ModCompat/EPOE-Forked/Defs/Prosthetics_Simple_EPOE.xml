@@ -288,6 +288,9 @@
 	</HediffDef>
 
 	<ThingDef Name="BodyPartSurrogateAnimalBase" ParentName="BodyPartProstheticAnimalBase" Abstract="True">
+		<graphicData>
+			<texPath>Things/Item/Health/HealthItemAnimalSurrogate</texPath>
+		</graphicData>
 		<recipeMaker>
 			<soundWorking>Recipe_Tailor</soundWorking>
 			<researchPrerequisite>SurrogateOrgans</researchPrerequisite>

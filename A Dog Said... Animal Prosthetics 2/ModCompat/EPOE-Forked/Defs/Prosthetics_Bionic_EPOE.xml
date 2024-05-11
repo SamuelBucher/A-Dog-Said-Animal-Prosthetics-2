@@ -73,6 +73,9 @@
 	</HediffDef>
 
 	<ThingDef Name="BodyPartSyntheticAnimalBase" ParentName="BodyPartBionicAnimalBase" Abstract="True">
+		<graphicData>
+			<texPath>Things/Item/Health/HealthItemAnimalSynthetic</texPath>
+		</graphicData>
 		<recipeMaker>
 			<soundWorking>Recipe_Tailor</soundWorking>
 			<researchPrerequisite>SyntheticOrgans</researchPrerequisite>
