@@ -17,6 +17,14 @@
 		<li IfModActive="vanillaexpanded.vaewaste">ModCompat/VAE/Waste</li>
 		<li IfModActive="ACPteam.ACPVanillaStyle">ModCompat/AnimalCollabProject</li>
         <li IfModActive="Scurvyez.StevesLoons">ModCompat/StevesLoons</li>
+		<li IfModActive="Erin.FFAnimals">ModCompat/Erin/FinalFantasyAnimals</li>
+		<li IfModActive="Erin.AzaphraeBiotech">ModCompat/Erin/AzaphraeBiotech</li>
+		<li IfModActive="Erin.LizzardDoggo">ModCompat/Erin/LizardDoggo</li>
+		<li IfModActive="Erin.Ferret">ModCompat/Erin/FriendlyFerrets</li>
+		<li IfModActive="Erin.Mountain">ModCompat/Erin/MountainAnimals</li>
+		<li IfModActive="Erin.Palamutes">ModCompat/Erin/Palamutes</li>
+		<li IfModActive="Erin.Valheim.Creatures">ModCompat/Erin/ValheimCreatures</li>
+		<li IfModActive="Erin.Wildlife">ModCompat/Erin/Wildlife</li>
 	</v1.4>
 	<v1.5>
 		<li>/</li>
@@ -35,5 +43,13 @@
 		<li IfModActive="vanillaexpanded.vaewaste">ModCompat/VAE/Waste</li>
 		<li IfModActive="ACPteam.ACPVanillaStyle">ModCompat/AnimalCollabProject</li>
         <li IfModActive="Scurvyez.StevesLoons">ModCompat/StevesLoons</li>
+		<li IfModActive="Erin.FFAnimals">ModCompat/Erin/FinalFantasyAnimals</li>
+		<li IfModActive="Erin.AzaphraeBiotech">ModCompat/Erin/AzaphraeBiotech</li>
+		<li IfModActive="Erin.LizzardDoggo">ModCompat/Erin/LizardDoggo</li>
+		<li IfModActive="Erin.Ferret">ModCompat/Erin/FriendlyFerrets</li>
+		<li IfModActive="Erin.Mountain">ModCompat/Erin/MountainAnimals</li>
+		<li IfModActive="Erin.Palamutes">ModCompat/Erin/Palamutes</li>
+		<li IfModActive="Erin.Valheim.Creatures">ModCompat/Erin/ValheimCreatures</li>
+		<li IfModActive="Erin.Wildlife">ModCompat/Erin/Wildlife</li>
 	  </v1.5>
 </loadFolders>

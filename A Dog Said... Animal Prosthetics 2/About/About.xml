@@ -24,6 +24,14 @@
 		<li>vanillaexpanded.vaewaste</li>
 		<li>ACPteam.ACPVanillaStyle</li>
         <li>Scurvyez.StevesLoons</li>
+		<li>Erin.FFAnimals</li>
+		<li>Erin.AzaphraeBiotech</li>
+		<li>Erin.LizzardDoggo</li>
+		<li>Erin.Ferret</li>
+		<li>Erin.Mountain</li>
+		<li>Erin.Palamutes</li>
+		<li>Erin.Valheim.Creatures</li>
+		<li>Erin.Wildlife</li>
 	</loadAfter>
 	<incompatibleWith>
 		<li>spoonshortage.adogsaidanimalprosthetics</li>
