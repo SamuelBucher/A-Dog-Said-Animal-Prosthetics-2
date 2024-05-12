@@ -2,6 +2,7 @@
 <loadFolders>
 	<v1.4>
 		<li>/</li>
+        <li IfModActive="automatic.bionicicons">ModCompat/BionicIcons</li>
 		<li IfModActive="imranfish.xmlextensions">ModCompat/XMLExtentions</li>
 		<li IfModActive="vat.epoeforked">ModCompat/EPOE-Forked</li>
 		<li IfModActive="vat.epoeforked,mse2.core">ModCompat/CommonSubparts</li>
@@ -20,6 +21,7 @@
 	</v1.4>
 	<v1.5>
 		<li>/</li>
+        <li IfModActive="automatic.bionicicons">ModCompat/BionicIcons</li>
 		<li IfModActive="imranfish.xmlextensions">ModCompat/XMLExtentions</li>
 		<li IfModActive="vat.epoeforked">ModCompat/EPOE-Forked</li>
 		<li IfModActive="vat.epoeforked,mse2.core">ModCompat/CommonSubparts</li>
