@@ -2,36 +2,51 @@
 
 <Patch>
 	
-	<!-- RG_Neutrolope -->
+	<!-- ERN_Amaro -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
+					@Name="Category3" or
 					@Name="Category2" or
 					@Name="Category1"
 				]/recipeUsers</xpath>
 				<value>
-					<li>RG_Neutrolope</li>
+					<li>ERN_Amaro</li>
 				</value>
 	</Operation>
 	
-	
-	<!-- RG_Rabbit -->
+	<!-- ERN_BigCarbuncle -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
+					@Name="Category3" or
+					@Name="Category2" or
 					@Name="Category1"
 				]/recipeUsers</xpath>
 				<value>
-					<li>RG_Rabbit</li>
+					<li>ERN_BigCarbuncle</li>
 				</value>
 	</Operation>
 	
-	
-	<!-- RG_KiwiBird -->
+	<!-- ERN_Carbuncle -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
+					@Name="Category3" or
+					@Name="Category2" or
 					@Name="Category1"
 				]/recipeUsers</xpath>
 				<value>
-					<li>RG_KiwiBird</li>
+					<li>ERN_Carbuncle</li>
+				</value>
+	</Operation>
+	
+	<!-- ERN_Chocobo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="Category3" or
+					@Name="Category2" or
+					@Name="Category1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>ERN_Chocobo</li>
 				</value>
 	</Operation>
 	

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+	
+	<!-- RG_Rimclaw -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="Category3" or
+					@Name="Category2" or
+					@Name="Category1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>RG_Rimclaw</li>
+				</value>
+	</Operation>
+	
+	
+	<!-- RG_Toxbeaver -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="Category2" or
+					@Name="Category1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>RG_Toxbeaver</li>
+				</value>
+	</Operation>
+	
+	
+	<!-- RG_Toxirrel -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="Category1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>RG_Toxirrel</li>
+				</value>
+	</Operation>
+	
+</Patch>

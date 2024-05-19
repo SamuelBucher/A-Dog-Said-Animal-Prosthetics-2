@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+	
+	<!-- RG_Owlbeast -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="Category3" or
+					@Name="Category2" or
+					@Name="Category1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>RG_Owlbeast</li>
+				</value>
+	</Operation>
+	
+</Patch>

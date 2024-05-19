@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<!-- Animal categories -->
+	
+	<!-- 3: 2 + bionics -->
+	<RecipeDef Name="Category3" Abstract="True">
+		<recipeUsers>
+			<li>Fox_Fennec</li>
+			<li>Fox_Arctic</li>
+			<li>Fox_Red</li>
+			<li>Cat</li>
+			<li>Bear_Grizzly</li>
+			<li>Bear_Polar</li>
+			<li>Cougar</li>
+			<li>Dromedary</li>
+			<li>Elephant</li>
+			<li>Horse</li>
+			<li>Husky</li>
+			<li>LabradorRetriever</li>
+			<li>Megasloth</li>
+			<li>Megascarab</li>
+			<li>Spelopede</li>
+			<li>Megaspider</li>
+			<li>Muffalo</li>
+			<li>Panther</li>
+			<li>Rhinoceros</li>
+			<li>Thrumbo</li>
+			<li>Warg</li>
+			<li>Wolf_Arctic</li>
+			<li>Wolf_Timber</li>
+			<li>Yak</li>
+			<li>YorkshireTerrier</li>
+			<li>Bison</li>
+			<li>Alpaca</li>
+			<li>Donkey</li>
+			<li>Monkey</li>
+		</recipeUsers>
+	</RecipeDef>
+	
+	<!-- 2: 1 + simple prosthetics -->
+	<RecipeDef Name="Category2" Abstract="True">
+		<recipeUsers>
+			<li>Fox_Fennec</li>
+			<li>Fox_Arctic</li>
+			<li>Fox_Red</li>
+			<li>Cat</li>
+			<li>Bear_Grizzly</li>
+			<li>Bear_Polar</li>
+			<li>Cougar</li>
+			<li>Dromedary</li>
+			<li>Elephant</li>
+			<li>Horse</li>
+			<li>Husky</li>
+			<li>LabradorRetriever</li>
+			<li>Megasloth</li>
+			<li>Megascarab</li>
+			<li>Spelopede</li>
+			<li>Megaspider</li>
+			<li>Muffalo</li>
+			<li>Panther</li>
+			<li>Rhinoceros</li>
+			<li>Thrumbo</li>
+			<li>Warg</li>
+			<li>Wolf_Arctic</li>
+			<li>Wolf_Timber</li>
+			<li>Yak</li>
+			<li>YorkshireTerrier</li>
+			<li>Bison</li>
+			<li>Alpaca</li>
+			<li>Donkey</li>
+			<li>Monkey</li>
+		
+			<li>Capybara</li>
+			<li>Cassowary</li>
+			<li>Deer</li>
+			<li>Duck</li>
+			<li>Gazelle</li>
+			<li>Goose</li>
+			<li>Emu</li>
+			<li>Hare</li>
+			<li>Snowhare</li>
+			<li>Ibex</li>
+			<li>Raccoon</li>
+			<li>Tortoise</li>
+			<li>Turkey</li>
+			<li>Boomalope</li>
+			<li MayRequire="ludeon.rimworld.biotech">Toxalope</li>
+			<li>Caribou</li>
+			<li>Cow</li>
+			<li>Elk</li>
+			<li>Goat</li>
+			<li>Ostrich</li>
+			<li>Pig</li>
+			<li>Sheep</li>
+			<li>WildBoar</li>
+			<li>Lynx</li>
+			<li>Iguana</li>
+		</recipeUsers>
+	</RecipeDef>
+	
+	<!-- 1: basic replacements -->
+	<RecipeDef Name="Category1" Abstract="True">
+		<recipeUsers>
+			<li>Fox_Fennec</li>
+			<li>Fox_Arctic</li>
+			<li>Fox_Red</li>
+			<li>Cat</li>
+			<li>Bear_Grizzly</li>
+			<li>Bear_Polar</li>
+			<li>Cougar</li>
+			<li>Dromedary</li>
+			<li>Elephant</li>
+			<li>Horse</li>
+			<li>Husky</li>
+			<li>LabradorRetriever</li>
+			<li>Megasloth</li>
+			<li>Megascarab</li>
+			<li>Spelopede</li>
+			<li>Megaspider</li>
+			<li>Muffalo</li>
+			<li>Panther</li>
+			<li>Rhinoceros</li>
+			<li>Thrumbo</li>
+			<li>Warg</li>
+			<li>Wolf_Arctic</li>
+			<li>Wolf_Timber</li>
+			<li>Yak</li>
+			<li>YorkshireTerrier</li>
+			<li>Bison</li>
+			<li>Alpaca</li>
+			<li>Donkey</li>
+			<li>Monkey</li>
+		
+			<li>Capybara</li>
+			<li>Cassowary</li>
+			<li>Deer</li>
+			<li>Duck</li>
+			<li>Gazelle</li>
+			<li>Goose</li>
+			<li>Emu</li>
+			<li>Hare</li>
+			<li>Snowhare</li>
+			<li>Ibex</li>
+			<li>Raccoon</li>
+			<li>Tortoise</li>
+			<li>Turkey</li>
+			<li>Boomalope</li>
+			<li MayRequire="ludeon.rimworld.biotech">Toxalope</li>
+			<li>Caribou</li>
+			<li>Cow</li>
+			<li>Elk</li>
+			<li>Goat</li>
+			<li>Ostrich</li>
+			<li>Pig</li>
+			<li>Sheep</li>
+			<li>WildBoar</li>
+			<li>Lynx</li>
+			<li>Iguana</li>
+		
+			<li>Boomrat</li>
+			<li MayRequire="ludeon.rimworld.biotech">WasteRat</li>
+			<li>Chicken</li>
+			<li>Chinchilla</li>
+			<li>Cobra</li>
+			<li>GuineaPig</li>
+			<li>Rat</li>
+			<li>Squirrel</li>
+		</recipeUsers>
+	</RecipeDef>
+	
+</Defs>

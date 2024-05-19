@@ -22,7 +22,7 @@
 	<!-- Scyther blade -->
 	<Operation Class="PatchOperationAddOrMergeCopy">
 		<xpath>/Defs/RecipeDef[
-			defName="InstallReplacementRadius"
+			defName="InstallScytherBlade"
 		]</xpath>
 		<fromxpath>/Defs/RecipeDef[@Name="Category3"]/recipeUsers</fromxpath>
 	</Operation>
