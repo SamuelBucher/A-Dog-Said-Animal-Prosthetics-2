@@ -2,7 +2,6 @@
 
 <Patch>
 	
-	<!-- Black_Dragon -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
 					@Name="Category3" or
@@ -11,126 +10,17 @@
 				]/recipeUsers</xpath>
 				<value>
 					<li>Black_Dragon</li>
-				</value>
-	</Operation>
-	
-	<!-- Blue_Dragon -->
-	<Operation Class="PatchOperationAdd">
-				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
-				]/recipeUsers</xpath>
-				<value>
 					<li>Blue_Dragon</li>
-				</value>
-	</Operation>
-	
-	<!-- Green_Dragon -->
-	<Operation Class="PatchOperationAdd">
-				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
-				]/recipeUsers</xpath>
-				<value>
 					<li>Green_Dragon</li>
-				</value>
-	</Operation>
-	
-	<!-- Purple_Dragon -->
-	<Operation Class="PatchOperationAdd">
-				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
-				]/recipeUsers</xpath>
-				<value>
 					<li>Purple_Dragon</li>
-				</value>
-	</Operation>
-	
-	<!-- Red_Dragon -->
-	<Operation Class="PatchOperationAdd">
-				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
-				]/recipeUsers</xpath>
-				<value>
 					<li>Red_Dragon</li>
-				</value>
-	</Operation>
-	
-	<!-- White_Dragon -->
-	<Operation Class="PatchOperationAdd">
-				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
-				]/recipeUsers</xpath>
-				<value>
 					<li>White_Dragon</li>
-				</value>
-	</Operation>
-	
-	<!-- Yellow_Dragon -->
-	<Operation Class="PatchOperationAdd">
-				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
-				]/recipeUsers</xpath>
-				<value>
 					<li>Yellow_Dragon</li>
-				</value>
-	</Operation>
-	
-	<!-- Gold_Dragon -->
-	<Operation Class="PatchOperationAdd">
-				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
-				]/recipeUsers</xpath>
-				<value>
 					<li>Gold_Dragon</li>
-				</value>
-	</Operation>
-	
-	<!-- Silver_Dragon -->
-	<Operation Class="PatchOperationAdd">
-				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
-				]/recipeUsers</xpath>
-				<value>
 					<li>Silver_Dragon</li>
-				</value>
-	</Operation>
-	
-	<!-- Jade_Dragon -->
-	<Operation Class="PatchOperationAdd">
-				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
-				]/recipeUsers</xpath>
-				<value>
 					<li>Jade_Dragon</li>
-				</value>
-	</Operation>
-	
-	<!-- True_Dragon -->
-	<Operation Class="PatchOperationAdd">
-				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
-				]/recipeUsers</xpath>
-				<value>
 					<li>True_Dragon</li>
 				</value>
 	</Operation>
+	
 </Patch>
