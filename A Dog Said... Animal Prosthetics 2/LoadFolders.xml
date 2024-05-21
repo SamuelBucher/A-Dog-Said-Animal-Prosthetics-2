@@ -28,6 +28,7 @@
 		<li IfModActive="Erin.Valheim.Creatures">1.4/ModCompat/Erin/ValheimCreatures</li>
 		<li IfModActive="Erin.Wildlife">1.4/ModCompat/Erin/Wildlife</li>
 		<li IfModActive="oblitus.housekeeperassistancecat">1.4/ModCompat/HousekeeperAssistanceCat</li>
+		<li IfModActive="onyxae.dragonsdescent">1.4/ModCompat/OttersHoldHands/DragonsDescent</li>
 	</v1.4>
 	<v1.5>
 		<li>/</li>
@@ -57,5 +58,6 @@
 		<li IfModActive="Erin.Valheim.Creatures">1.5/ModCompat/Erin/ValheimCreatures</li>
 		<li IfModActive="Erin.Wildlife">1.5/ModCompat/Erin/Wildlife</li>
 		<li IfModActive="oblitus.housekeeperassistancecat">1.5/ModCompat/HousekeeperAssistanceCat</li>
+		<li IfModActive="onyxae.dragonsdescent">1.5/ModCompat/OttersHoldHands/DragonsDescent</li>
 	  </v1.5>
 </loadFolders>
