@@ -4,7 +4,7 @@
 	<!-- Animal categories -->
 	
 	<!-- 3: 2 + bionics -->
-	<RecipeDef Name="Category3" Abstract="True">
+	<RecipeDef Name="ADS_Cat3" Abstract="True">
 		<recipeUsers>
 			<li>Fox_Fennec</li>
 			<li>Fox_Arctic</li>
@@ -35,11 +35,12 @@
 			<li>Alpaca</li>
 			<li>Donkey</li>
 			<li>Monkey</li>
+			<li>Lynx</li>
 		</recipeUsers>
 	</RecipeDef>
 	
 	<!-- 2: 1 + simple prosthetics -->
-	<RecipeDef Name="Category2" Abstract="True">
+	<RecipeDef Name="ADS_Cat2" Abstract="True">
 		<recipeUsers>
 			<li>Fox_Fennec</li>
 			<li>Fox_Arctic</li>
@@ -70,6 +71,7 @@
 			<li>Alpaca</li>
 			<li>Donkey</li>
 			<li>Monkey</li>
+			<li>Lynx</li>
 		
 			<li>Capybara</li>
 			<li>Cassowary</li>
@@ -94,13 +96,12 @@
 			<li>Pig</li>
 			<li>Sheep</li>
 			<li>WildBoar</li>
-			<li>Lynx</li>
 			<li>Iguana</li>
 		</recipeUsers>
 	</RecipeDef>
 	
 	<!-- 1: basic replacements -->
-	<RecipeDef Name="Category1" Abstract="True">
+	<RecipeDef Name="ADS_Cat1" Abstract="True">
 		<recipeUsers>
 			<li>Fox_Fennec</li>
 			<li>Fox_Arctic</li>
@@ -131,6 +132,7 @@
 			<li>Alpaca</li>
 			<li>Donkey</li>
 			<li>Monkey</li>
+			<li>Lynx</li>
 		
 			<li>Capybara</li>
 			<li>Cassowary</li>
@@ -155,7 +157,6 @@
 			<li>Pig</li>
 			<li>Sheep</li>
 			<li>WildBoar</li>
-			<li>Lynx</li>
 			<li>Iguana</li>
 		
 			<li>Boomrat</li>

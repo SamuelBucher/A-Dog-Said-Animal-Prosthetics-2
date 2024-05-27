@@ -43,7 +43,11 @@
 		<jobString>Installing bionic animal jaw.</jobString>
 		<addsHediff>BionicJawAnimal</addsHediff>
 		<appliedOnFixedBodyParts>
-			<li>Jaw</li>
+			<li>AnimalJaw</li>
+			<li>InsectMouth</li>
+			<li>Beak</li>
+			<li>TurtleBeak</li>
+			<li>SnakeMouth</li>
 		</appliedOnFixedBodyParts>
 		<ingredients>
 			<li>

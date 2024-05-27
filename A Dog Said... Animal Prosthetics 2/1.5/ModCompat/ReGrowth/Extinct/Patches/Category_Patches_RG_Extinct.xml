@@ -5,9 +5,9 @@
 	<!-- RG_WoollyMammoth -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_WoollyMammoth</li>
@@ -17,9 +17,9 @@
 	<!-- RG_WoollyRhinoceros -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_WoollyRhinoceros</li>
@@ -29,9 +29,9 @@
 	<!-- RG_WoollyStegosaurus -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_WoollyStegosaurus</li>
@@ -41,9 +41,9 @@
 	<!-- RG_SabertoothTiger -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_SabertoothTiger</li>
@@ -53,9 +53,9 @@
 	<!-- RG_SabertoothSquirrel -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_SabertoothSquirrel</li>
@@ -65,9 +65,9 @@
 	<!-- RG_TerrorBird -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_TerrorBird</li>
@@ -77,9 +77,9 @@
 	<!-- RG_ArcticDrak -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_ArcticDrak</li>
@@ -89,9 +89,9 @@
 	<!-- RG_Velociraptor <3-->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_Velociraptor</li>
@@ -101,9 +101,9 @@
 	<!-- RG_Thrinaxodon -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_Thrinaxodon</li>
@@ -114,8 +114,8 @@
 	<!-- RG_Dodo -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_Dodo</li>
@@ -125,8 +125,8 @@
 	<!-- RG_Synthetion -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_Synthetion</li>
@@ -136,8 +136,8 @@
 	<!-- RG_Megalenhydris -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_Megalenhydris</li>

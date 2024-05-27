@@ -5,9 +5,9 @@
 	<!-- ERN_Redpanda -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>ERN_Redpanda</li>
@@ -17,7 +17,7 @@
 	<!-- ERN_ptarmigan -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category1"
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>ERN_ptarmigan</li>
@@ -27,9 +27,9 @@
 	<!-- ERN_Greyfox -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>ERN_Greyfox</li>
@@ -39,9 +39,9 @@
 	<!-- ERN_Mink -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>ERN_Mink</li>
@@ -51,8 +51,8 @@
 	<!-- ERN_Hedgehog -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>ERN_Hedgehog</li>
@@ -62,7 +62,7 @@
 	<!-- ERN_Gartersnake -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category1"
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>ERN_Gartersnake</li>
@@ -72,8 +72,8 @@
 	<!-- ERN_Armadillo -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>ERN_Armadillo</li>

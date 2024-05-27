@@ -8,7 +8,7 @@
 			@Name="EPIA_SurgerySyntheticRepair" or
 			defName="EPIA_RestoreBones"
 		]</xpath>
-		<fromxpath>/Defs/RecipeDef[@Name="Category1"]/recipeUsers</fromxpath>
+		<fromxpath>/Defs/RecipeDef[@Name="ADS_Cat1"]/recipeUsers</fromxpath>
 	</Operation>
 
 	<!-- Replacement radius -->
@@ -16,7 +16,7 @@
 		<xpath>/Defs/RecipeDef[
 			defName="InstallReplacementRadius"
 		]</xpath>
-		<fromxpath>/Defs/RecipeDef[@Name="Category2"]/recipeUsers</fromxpath>
+		<fromxpath>/Defs/RecipeDef[@Name="ADS_Cat2"]/recipeUsers</fromxpath>
 	</Operation>-->
 
 	<!-- Scyther blade -->
@@ -24,7 +24,7 @@
 		<xpath>/Defs/RecipeDef[
 			defName="InstallScytherBlade"
 		]</xpath>
-		<fromxpath>/Defs/RecipeDef[@Name="Category3"]/recipeUsers</fromxpath>
+		<fromxpath>/Defs/RecipeDef[@Name="ADS_Cat3"]/recipeUsers</fromxpath>
 	</Operation>
 	
 </Patch>

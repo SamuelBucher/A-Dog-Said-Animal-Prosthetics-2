@@ -16,14 +16,14 @@
 						@Name="SurgeryInstallMedievalBodyPartAnimalBase" or
 						defName="InstallDentureAnimal"
 					]</xpath>
-					<fromxpath>/Defs/RecipeDef[@Name="Category1"]/recipeUsers</fromxpath>
+					<fromxpath>/Defs/RecipeDef[@Name="ADS_Cat1"]/recipeUsers</fromxpath>
 				</li>
 				<!--Prosthetic-->
 				<li Class="PatchOperationAddOrMergeCopy">
 					<xpath>/Defs/RecipeDef[
 						@Name="SurgeryInstallSimpleProstheticBodyPartAnimalBase"
 					]</xpath>
-					<fromxpath>/Defs/RecipeDef[@Name="Category2"]/recipeUsers</fromxpath>
+					<fromxpath>/Defs/RecipeDef[@Name="ADS_Cat2"]/recipeUsers</fromxpath>
 				</li>
 				<!--Bionic-->
 				<li Class="PatchOperationAddOrMergeCopy">
@@ -31,7 +31,7 @@
 						@Name="SurgeryInstallBionicBodyPartAnimalBase" or
 						@Name="SurgeryInstallMiscBodyPartAnimalBase"
 					]</xpath>
-					<fromxpath>/Defs/RecipeDef[@Name="Category3"]/recipeUsers</fromxpath>
+					<fromxpath>/Defs/RecipeDef[@Name="ADS_Cat3"]/recipeUsers</fromxpath>
 				</li>
 
             </operations>

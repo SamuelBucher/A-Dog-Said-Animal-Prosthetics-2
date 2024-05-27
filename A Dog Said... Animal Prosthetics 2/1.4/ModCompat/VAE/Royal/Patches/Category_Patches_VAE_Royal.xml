@@ -4,9 +4,9 @@
 	
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>VAERoy_AngoraRabbit</li>
@@ -19,8 +19,8 @@
 	
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>VAERoy_Crane</li>
@@ -32,7 +32,7 @@
 	
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category1"
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>VAERoy_Pheasant</li>

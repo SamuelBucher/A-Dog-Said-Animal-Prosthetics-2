@@ -4,8 +4,8 @@
 <Patch>
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>SZ_CommonLoon</li>

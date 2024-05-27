@@ -9,8 +9,8 @@
 		</mods>
 		<nomatch Class="PatchOperationAdd">
 			<xpath>/Defs/RecipeDef[
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 					]/recipeUsers
 			</xpath>
 			<value>
@@ -23,7 +23,7 @@
 	<!-- RG_Rabbit -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category1"
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_Rabbit</li>
@@ -34,7 +34,7 @@
 	<!-- RG_KiwiBird -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category1"
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>RG_KiwiBird</li>

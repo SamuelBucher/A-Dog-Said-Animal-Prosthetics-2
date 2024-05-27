@@ -5,9 +5,9 @@
 	<!-- Snow_leopard -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>Snow_leopard</li>
@@ -17,8 +17,8 @@
 	<!-- Pika -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>Pika</li>
@@ -28,9 +28,9 @@
 	<!-- Pallas_cat -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>Pallas_cat</li>
@@ -40,9 +40,9 @@
 	<!-- Argali -->
 	<Operation Class="PatchOperationAdd">
 				<xpath>/Defs/RecipeDef[
-					@Name="Category3" or
-					@Name="Category2" or
-					@Name="Category1"
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
 					<li>Argali</li>
