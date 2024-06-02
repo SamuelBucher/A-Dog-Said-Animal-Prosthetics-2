@@ -15,6 +15,7 @@
 					<li>AEXP_TasmanianDevil</li>
 					<li>AEXP_Thylacine</li>
 					<li>AEXP_AfricanWildDog</li>
+					<li>AEXP_BlackFootedFerret</li>
 				</value>
 	</Operation>
 	
@@ -25,7 +26,6 @@
 					@Name="ADS_Cat1"
 				]/recipeUsers</xpath>
 				<value>
-					<li>AEXP_BlackFootedFerret</li>
 					<li>AEXP_BlackRhino</li>
 					<li>AEXP_Moa</li>
 					<li>AEXP_RockhopperPenguin</li>
