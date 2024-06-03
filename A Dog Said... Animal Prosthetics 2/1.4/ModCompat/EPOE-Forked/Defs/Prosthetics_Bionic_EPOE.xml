@@ -84,7 +84,7 @@
 			<soundWorking>Recipe_Tailor</soundWorking>
 			<researchPrerequisite>SyntheticOrgans</researchPrerequisite>
 			<recipeUsers Inherit="False">
-				<li>FabricationBench</li>
+				<li>TableOrgans</li>
 			</recipeUsers>
 		</recipeMaker>
 	</ThingDef>

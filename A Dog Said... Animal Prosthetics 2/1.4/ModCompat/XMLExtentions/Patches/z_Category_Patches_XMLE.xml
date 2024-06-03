@@ -60,43 +60,25 @@
 					<caseTrue>
 						<Operation Class="PatchOperationSequence">
 							<operations>
-								<li Class="PatchOperationAdd">
+								<li Class="PatchOperationReplace">
 									<xpath>Defs/ThingDef[@Name="BodyPartBionicAnimalBase"]/recipeMaker/recipeUsers</xpath>
 									<value>
-										<li>TableBionics</li>
+										<recipeUsers>
+											<li>FabricationBench</li>
+										</recipeUsers>
 									</value>
 								</li>
-								<li Class="PatchOperationAdd">
+								<li Class="PatchOperationReplace">
 									<xpath>Defs/ThingDef[@Name="BodyPartSyntheticAnimalBase"]/recipeMaker/recipeUsers</xpath>
 									<value>
-										<li>TableOrgans</li>
+										<recipeUsers>
+											<li>FabricationBench</li>
+										</recipeUsers>
 									</value>
 								</li>
 							</operations>
 						</Operation>
 					</caseTrue>
-					<caseFalse>
-						<Operation Class="PatchOperationSequence">
-							<operations>
-								<li Class="PatchOperationReplace">
-									<xpath>Defs/ThingDef[@Name="BodyPartBionicAnimalBase"]/recipeMaker/recipeUsers</xpath>
-									<value>
-										<recipeUsers>
-											<li>TableBionics</li>
-										</recipeUsers>
-									</value>
-								</li>
-								<li Class="PatchOperationReplace">
-									<xpath>Defs/ThingDef[@Name="BodyPartSyntheticAnimalBase"]/recipeMaker/recipeUsers</xpath>
-									<value>
-										<recipeUsers>
-											<li>TableOrgans</li>
-										</recipeUsers>
-									</value>
-								</li>
-							</operations>
-						</Operation>
-					</caseFalse>
 				</li>
 
             </operations>
