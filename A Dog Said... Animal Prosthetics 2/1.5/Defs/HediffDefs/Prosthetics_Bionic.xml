@@ -696,5 +696,72 @@
 		<recipeUsers>
 		</recipeUsers>
 	</RecipeDef>
+	
+
+	<!-- Bionic jaw -->
+
+	<HediffDef ParentName="AddedBionicBodyPartAnimalBase">
+		<defName>BionicJawAnimal</defName>
+		<label>bionic animal jaw</label>
+		<labelNoun>a bionic animal jaw</labelNoun>
+		<description>An installed bionic animal jaw.</description>
+		<descriptionHyperlinks><ThingDef>BionicJawAnimal</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>BionicJawAnimal</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1.2</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+
+	<ThingDef ParentName="BodyPartBionicAnimalBase">
+		<defName>BionicJawAnimal</defName>
+		<label>bionic animal jaw</label>
+		<description>An advanced artificial animal jaw. Silenced mini-servos give great jaw strength A lattice-dust healing system allows it to recover from damage. It is better than a biological jaw in almost every way. Fits all animals.</description>
+		<descriptionHyperlinks><RecipeDef>InstallBionicJawAnimal</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Plasteel>10</Plasteel>
+			<ComponentSpacer>3</ComponentSpacer>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+	</ThingDef>
+
+	<RecipeDef ParentName="SurgeryInstallBionicBodyPartAnimalBase">
+		<defName>InstallBionicJawAnimal</defName>
+		<label>install bionic animal jaw</label>
+		<description>Installs bionic jaw. Requires a min skill in medicine of 4.</description>
+		<descriptionHyperlinks>
+			<ThingDef>BionicJawAnimal</ThingDef>
+			<HediffDef>BionicJawAnimal</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing bionic animal jaw.</jobString>
+		<addsHediff>BionicJawAnimal</addsHediff>
+		<appliedOnFixedBodyParts>
+			<li>AnimalJaw</li>
+			<li>InsectMouth</li>
+			<li>Beak</li>
+			<li>TurtleBeak</li>
+			<li>SnakeMouth</li>
+		</appliedOnFixedBodyParts>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>BionicJawAnimal</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>BionicJawAnimal</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<uiIconThing>BionicJawAnimal</uiIconThing>
+		<recipeUsers>
+		</recipeUsers>
+	</RecipeDef>
 
 </Defs>
