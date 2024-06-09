@@ -85,4 +85,54 @@
 		</match>
     </Operation>
 
+
+	<!--             [FSF] Advanced Bionics Expansion Settings             -->
+
+
+	<Operation Class="PatchOperationFindMod">
+        <mods>
+			<li>[FSF] Advanced Bionics Expansion</li>
+        </mods>
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="XmlExtensions.OptionalPatch">
+					<modId>FrozenSnowFox.FrozenSnowFoxAdvancedBionicsExpansion</modId>
+					<key>FSFABEBionicsTableOn</key>
+					<defaultValue>false</defaultValue>
+					<caseTrue>
+						<Operation Class="PatchOperationSequence">
+							<success>Normal</success>
+							<operations>
+							
+							<!-- Change Prosthetic Base Recipe -->
+							
+							<li Class="PatchOperationReplace">
+								<xpath>/Defs/ThingDef[@Name = "BodyPartProstheticAnimalBase"]/recipeMaker/recipeUsers</xpath>
+								<value>
+									<recipeUsers>
+										<li>FSFBionicsTable</li>
+									</recipeUsers>
+								</value>
+							</li>
+							<!-- Change Bionic Base Recipe -->
+							
+							<li Class="PatchOperationReplace">
+								<xpath>Defs/ThingDef[@Name="BodyPartBionicAnimalBase"]/recipeMaker/recipeUsers</xpath>
+								<value>
+									<recipeUsers>
+										<li>FSFBionicsTable</li>
+									</recipeUsers>
+								</value>
+							</li>
+								
+							</operations>
+						</Operation>
+					</caseTrue>
+				</li>
+			</operations>
+		</match>
+    </Operation>
+
+
 </Patch>
