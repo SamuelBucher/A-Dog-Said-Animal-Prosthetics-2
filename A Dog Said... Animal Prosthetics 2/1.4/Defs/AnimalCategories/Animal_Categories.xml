@@ -97,6 +97,14 @@
 			<li>Sheep</li>
 			<li>WildBoar</li>
 			<li>Iguana</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Basic</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Woodmaker</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Berrymaker</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Medicinemaker</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Gaumaker</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Carrier</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Clawer</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Barkskin</li>
 		</recipeUsers>
 	</RecipeDef>
 	
@@ -158,6 +166,14 @@
 			<li>Sheep</li>
 			<li>WildBoar</li>
 			<li>Iguana</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Basic</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Woodmaker</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Berrymaker</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Medicinemaker</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Gaumaker</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Carrier</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Clawer</li>
+			<li MayRequire="ludeon.rimworld.ideology">Dryad_Barkskin</li>
 		
 			<li>Boomrat</li>
 			<li MayRequire="ludeon.rimworld.biotech">WasteRat</li>

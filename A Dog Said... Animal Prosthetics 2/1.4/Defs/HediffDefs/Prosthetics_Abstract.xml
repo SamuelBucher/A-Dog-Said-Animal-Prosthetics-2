@@ -13,12 +13,11 @@
 	</ThingDef>
 	
 	
-	<HediffDef Name="AddedBodyPartAnimalBase" ParentName="AddedBodyPartBase"  Abstract="True">
+	<HediffDef Name="AddedBodyPartAnimalBase" ParentName="AddedBodyPartBase" Abstract="True">
 	</HediffDef>
 	
 	
-	<RecipeDef Name="SurgeryInstallArtificialBodyPartAnimalBase" ParentName="SurgeryFlesh" Abstract="True">
-		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+	<RecipeDef Name="SurgeryInstallImplantAnimalBase" ParentName="SurgeryFlesh" Abstract="True">
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
@@ -35,6 +34,16 @@
 				<li>Medicine</li>
 			</categories>
 		</fixedIngredientFilter>
+	</RecipeDef>
+
+	<RecipeDef Name="SurgeryInstallArtificialBodyPartAnimalBase" ParentName="SurgeryInstallImplantBase" Abstract="True">
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<recipeUsers>
+		</recipeUsers>
+	</RecipeDef>
+
+	<RecipeDef Name="SurgeryInstallNaturalBodyPartAnimalBase" ParentName="SurgeryInstallImplantBase" Abstract="True">
+		<workerClass>Recipe_InstallNaturalBodyPart</workerClass>
 		<recipeUsers>
 		</recipeUsers>
 	</RecipeDef>
