@@ -58,6 +58,7 @@
 		<li IfModActive="Erin.Valheim.Creatures">1.5/ModCompat/Erin/ValheimCreatures</li>
 		<li IfModActive="Erin.Wildlife">1.5/ModCompat/Erin/Wildlife</li>
 		<li IfModActive="oblitus.housekeeperassistancecat">1.5/ModCompat/HousekeeperAssistanceCat</li>
-		<li IfModActive="onyxae.dragonsdescent">1.5/ModCompat/OttersHoldHands/DragonsDescent</li>
+		<li IfModActive="Maximilian.MoreThrumbos">1.5/ModCompat/MoreThrumbos_Max</li>
+		<li IfModActive="Mlie.MoreThrumbos">1.5/ModCompat/MoreThrumbos_Mlie</li>
 	  </v1.5>
 </loadFolders>
