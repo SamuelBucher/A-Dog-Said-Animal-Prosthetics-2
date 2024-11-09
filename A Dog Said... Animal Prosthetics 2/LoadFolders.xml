@@ -60,5 +60,6 @@
 		<li IfModActive="oblitus.housekeeperassistancecat">1.5/ModCompat/HousekeeperAssistanceCat</li>
 		<li IfModActive="Maximilian.MoreThrumbos">1.5/ModCompat/MoreThrumbos_Max</li>
 		<li IfModActive="Mlie.MoreThrumbos">1.5/ModCompat/MoreThrumbos_Mlie</li>
+		<li IfModActive="spincrus.dinosauria">1.5/ModCompat/Dinosauria</li>
 	  </v1.5>
 </loadFolders>
