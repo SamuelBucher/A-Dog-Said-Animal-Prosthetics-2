@@ -9,7 +9,6 @@
 		</value>
 	</Operation>
 	
-	
 		
 	<!--             Synthetics             -->
 
@@ -136,6 +135,48 @@
 		<value>
 			<jobString>Installing synthetic animal stomach.</jobString>
 		</value>
+	</Operation>
+	
+
+	<!-- Detoxifier kidney -->
+
+	<Operation Class="PatchOperationAttributeSet">
+		<xpath>Defs/HediffDef[defName="DetoxifierKidneyAnimal"]</xpath>
+		<attribute>ParentName</attribute>
+		<value>AddedSyntheticBodyPartAnimalBase</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAttributeSet">
+		<xpath>Defs/ThingDef[defName="DetoxifierKidneyAnimal"]</xpath>
+		<attribute>ParentName</attribute>
+		<value>BodyPartSyntheticAnimalBase</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAttributeSet">
+		<xpath>Defs/RecipeDef[defName="InstallDetoxifierKidneyAnimal"]</xpath>
+		<attribute>ParentName</attribute>
+		<value>SurgeryInstallSyntheticBodyPartAnimalBase</value>
+	</Operation>
+	
+
+	<!-- Detoxifier lung -->
+
+	<Operation Class="PatchOperationAttributeSet">
+		<xpath>Defs/HediffDef[defName="DetoxifierLungAnimal"]</xpath>
+		<attribute>ParentName</attribute>
+		<value>AddedSyntheticBodyPartAnimalBase</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAttributeSet">
+		<xpath>Defs/ThingDef[defName="DetoxifierLungAnimal"]</xpath>
+		<attribute>ParentName</attribute>
+		<value>BodyPartSyntheticAnimalBase</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAttributeSet">
+		<xpath>Defs/RecipeDef[defName="InstallDetoxifierLungAnimal"]</xpath>
+		<attribute>ParentName</attribute>
+		<value>SurgeryInstallSyntheticBodyPartAnimalBase</value>
 	</Operation>
 	
 </Patch>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Defs>	
+<Defs>
 
-	<HediffDef Name="AddedBionicBodyPartAnimalBase" ParentName="AddedBodyPartAnimalBase"  Abstract="True">
+	<HediffDef Name="AddedBionicBodyPartAnimalBase" ParentName="AddedBodyPartAnimalBase" Abstract="True">
 		<comps>
 			<li Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust" MayRequire="v1024.ebframework">
 				<scaleAdjustment>0.20</scaleAdjustment>
@@ -113,8 +113,8 @@
 	<ThingDef ParentName="BodyPartBionicAnimalBase">
 		<defName>BionicTailAnimal</defName>
 		<label>bionic animal tail</label>
-		<description>An advanced artificial animal tail. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological tail in almost every way. Fits all animals.</description>		
-		<descriptionHyperlinks><RecipeDef>InstallBionicTailAnimal</RecipeDef></descriptionHyperlinks>		
+		<description>An advanced artificial animal tail. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological tail in almost every way. Fits all animals.</description>
+		<descriptionHyperlinks><RecipeDef>InstallBionicTailAnimal</RecipeDef></descriptionHyperlinks>
 		<costList>
 			<Plasteel>10</Plasteel>
 			<ComponentSpacer>2</ComponentSpacer>
@@ -177,8 +177,8 @@
 	<ThingDef ParentName="BodyPartBionicAnimalBase">
 		<defName>BionicEyeAnimal</defName>
 		<label>bionic animal eye</label>
-		<description>An advanced artificial animal eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. Fits all animals.</description>		
-		<descriptionHyperlinks><RecipeDef>InstallBionicEyeAnimal</RecipeDef></descriptionHyperlinks>		
+		<description>An advanced artificial animal eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. Fits all animals.</description>
+		<descriptionHyperlinks><RecipeDef>InstallBionicEyeAnimal</RecipeDef></descriptionHyperlinks>
 		<costList>
 			<Plasteel>10</Plasteel>
 			<ComponentSpacer>3</ComponentSpacer>
@@ -257,8 +257,8 @@
 	<ThingDef ParentName="BodyPartBionicAnimalBase">
 		<defName>BionicArmAnimal</defName>
 		<label>bionic animal arm</label>
-		<description>An advanced artificial animal arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. Fits all animals.</description>		
-		<descriptionHyperlinks><RecipeDef>InstallBionicArmAnimal</RecipeDef></descriptionHyperlinks>		
+		<description>An advanced artificial animal arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. Fits all animals.</description>
+		<descriptionHyperlinks><RecipeDef>InstallBionicArmAnimal</RecipeDef></descriptionHyperlinks>
 		<costList>
 			<Plasteel>12</Plasteel>
 			<ComponentSpacer>3</ComponentSpacer>
@@ -337,8 +337,8 @@
 	<ThingDef ParentName="BodyPartBionicAnimalBase">
 		<defName>BionicLegAnimal</defName>
 		<label>bionic animal leg</label>
-		<description>An advanced artificial animal leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. Fits all animals.</description>		
-		<descriptionHyperlinks><RecipeDef>InstallBionicLegAnimal</RecipeDef></descriptionHyperlinks>		
+		<description>An advanced artificial animal leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. Fits all animals.</description>
+		<descriptionHyperlinks><RecipeDef>InstallBionicLegAnimal</RecipeDef></descriptionHyperlinks>
 		<costList>
 			<Plasteel>12</Plasteel>
 			<ComponentSpacer>3</ComponentSpacer>
@@ -402,7 +402,7 @@
 		<defName>BionicSpineAnimal</defName>
 		<label>bionic animal spine</label>
 		<description>A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. Fits all animals.</description>
-		<descriptionHyperlinks><RecipeDef>InstallBionicSpineAnimal</RecipeDef></descriptionHyperlinks>		
+		<descriptionHyperlinks><RecipeDef>InstallBionicSpineAnimal</RecipeDef></descriptionHyperlinks>
 		<costList>
 			<Plasteel>12</Plasteel>
 			<ComponentSpacer>3</ComponentSpacer>
@@ -465,8 +465,8 @@
 	<ThingDef ParentName="BodyPartBionicAnimalBase">
 		<defName>BionicHeartAnimal</defName>
 		<label>bionic animal heart</label>
-		<description>An advanced artificial animal heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. Fits all animals.</description>		
-		<descriptionHyperlinks><RecipeDef>InstallBionicHeartAnimal</RecipeDef></descriptionHyperlinks>		
+		<description>An advanced artificial animal heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. Fits all animals.</description>
+		<descriptionHyperlinks><RecipeDef>InstallBionicHeartAnimal</RecipeDef></descriptionHyperlinks>
 		<costList>
 			<Plasteel>10</Plasteel>
 			<ComponentSpacer>3</ComponentSpacer>
@@ -530,8 +530,8 @@
 	<ThingDef ParentName="BodyPartBionicAnimalBase">
 		<defName>BionicStomachAnimal</defName>
 		<label>bionic animal stomach</label>
-		<description>An advanced artificial animal stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. Fits all animals.</description>		
-		<descriptionHyperlinks><RecipeDef>InstallBionicStomachAnimal</RecipeDef></descriptionHyperlinks>		
+		<description>An advanced artificial animal stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. Fits all animals.</description>
+		<descriptionHyperlinks><RecipeDef>InstallBionicStomachAnimal</RecipeDef></descriptionHyperlinks>
 		<costList>
 			<Plasteel>10</Plasteel>
 			<ComponentSpacer>3</ComponentSpacer>
@@ -595,7 +595,7 @@
 		<defName>BionicEarAnimal</defName>
 		<label>bionic animal ear</label>
 		<description>An advanced artificial animal ear. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. Fits all animals.</description>
-		<descriptionHyperlinks><RecipeDef>InstallBionicEarAnimal</RecipeDef></descriptionHyperlinks>		
+		<descriptionHyperlinks><RecipeDef>InstallBionicEarAnimal</RecipeDef></descriptionHyperlinks>
 		<costList>
 			<Plasteel>7</Plasteel>
 			<ComponentSpacer>2</ComponentSpacer>
@@ -656,8 +656,8 @@
 	<ThingDef ParentName="BodyPartBionicAnimalBase">
 		<defName>BionicTongueAnimal</defName>
 		<label>bionic animal tongue</label>
-		<description>An advanced artificial animal tongue replacement. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in eating and tasting. Fits all animals.</description>		
-		<descriptionHyperlinks><RecipeDef>InstallBionicTongueAnimal</RecipeDef></descriptionHyperlinks>		
+		<description>An advanced artificial animal tongue replacement. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in eating and tasting. Fits all animals.</description>
+		<descriptionHyperlinks><RecipeDef>InstallBionicTongueAnimal</RecipeDef></descriptionHyperlinks>
 		<costList>
 			<Plasteel>6</Plasteel>
 			<ComponentSpacer>1</ComponentSpacer>
@@ -760,6 +760,140 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<uiIconThing>BionicJawAnimal</uiIconThing>
+		<recipeUsers>
+		</recipeUsers>
+	</RecipeDef>
+	
+
+	<!-- Detoxifier kidney -->
+
+	<HediffDef ParentName="AddedBionicBodyPartAnimalBase" MayRequire="Ludeon.RimWorld.Biotech">
+		<defName>DetoxifierKidneyAnimal</defName>
+		<label>animal detoxifier kidney</label>
+		<labelNoun>an animal detoxifier kidney</labelNoun>
+		<description>An installed animal detoxifier kidney.</description>
+		<descriptionHyperlinks><ThingDef>DetoxifierKidneyAnimal</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>DetoxifierKidneyAnimal</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1</partEfficiency>
+			<betterThanNatural>true</betterThanNatural>
+		</addedPartProps>
+	</HediffDef>
+  
+	<ThingDef ParentName="BodyPartBionicAnimalBase" MayRequire="Ludeon.RimWorld.Biotech">
+		<defName>DetoxifierKidneyAnimal</defName>
+		<label>animal detoxifier kidney</label>
+		<description>An advanced artificial animal kidney. Using a series of nanofilters, it can rapidly remove a vast range of toxins from the blood, making it effective against environmental toxins, venoms, and injected poisons. Fits all animals.</description>
+		<descriptionHyperlinks><RecipeDef>InstallDetoxifierKidneyAnimal</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Plasteel>10</Plasteel>
+			<ComponentSpacer>1</ComponentSpacer>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+		<recipeMaker>
+			<researchPrerequisite>ToxFiltrationAnimal</researchPrerequisite>
+		</recipeMaker>
+	</ThingDef>
+
+	<RecipeDef ParentName="SurgeryInstallBionicBodyPartAnimalBase" MayRequire="Ludeon.RimWorld.Biotech">
+		<defName>InstallDetoxifierKidneyAnimal</defName>
+		<label>install animal detoxifier kidney</label>
+		<description>Installs an animal detoxifier kidney.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DetoxifierKidneyAnimal</ThingDef>
+			<HediffDef>DetoxifierKidneyAnimal</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing animal detoxifier kidney.</jobString>
+		<addsHediff>DetoxifierKidneyAnimal</addsHediff>
+		<appliedOnFixedBodyParts>
+			<li>Kidney</li>
+		</appliedOnFixedBodyParts>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>DetoxifierKidneyAnimal</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>DetoxifierKidneyAnimal</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<uiIconThing>DetoxifierKidneyAnimal</uiIconThing>
+		<recipeUsers>
+		</recipeUsers>
+	</RecipeDef>
+	
+
+	<!-- Detoxifier lung -->
+
+	<HediffDef ParentName="AddedBionicBodyPartAnimalBase" MayRequire="Ludeon.RimWorld.Biotech">
+		<defName>DetoxifierLungAnimal</defName>
+		<label>animal detoxifier lung</label>
+		<labelNoun>an animal detoxifier lung</labelNoun>
+		<description>An installed animal detoxifier lung.</description>
+		<descriptionHyperlinks><ThingDef>DetoxifierLungAnimal</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>DetoxifierLungAnimal</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1</partEfficiency>
+			<betterThanNatural>true</betterThanNatural>
+		</addedPartProps>
+	</HediffDef>
+  
+	<ThingDef ParentName="BodyPartBionicAnimalBase" MayRequire="Ludeon.RimWorld.Biotech">
+		<defName>DetoxifierLungAnimal</defName>
+		<label>animal detoxifier lung</label>
+		<description>An advanced artificial animal lung. It has synthetic muscle fibers for a realistic breathing, plus a high-flow pump for rapid deep breathes during intensive activities. It is better than a biological lung in almost every way. Fits all animals.</description>
+		<descriptionHyperlinks><RecipeDef>InstallDetoxifierLungAnimal</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Plasteel>10</Plasteel>
+			<ComponentSpacer>3</ComponentSpacer>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+		<recipeMaker>
+			<researchPrerequisite>ToxFiltrationAnimal</researchPrerequisite>
+		</recipeMaker>
+	</ThingDef>
+
+	<RecipeDef ParentName="SurgeryInstallBionicBodyPartAnimalBase" MayRequire="Ludeon.RimWorld.Biotech">
+		<defName>InstallDetoxifierLungAnimal</defName>
+		<label>install animal detoxifier lung</label>
+		<description>Installs an animal detoxifier lung.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DetoxifierLungAnimal</ThingDef>
+			<HediffDef>DetoxifierLungAnimal</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing animal detoxifier lung.</jobString>
+		<addsHediff>DetoxifierLungAnimal</addsHediff>
+		<appliedOnFixedBodyParts>
+			<li>Lung</li>
+		</appliedOnFixedBodyParts>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>DetoxifierLungAnimal</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>DetoxifierLungAnimal</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<uiIconThing>DetoxifierLungAnimal</uiIconThing>
 		<recipeUsers>
 		</recipeUsers>
 	</RecipeDef>
