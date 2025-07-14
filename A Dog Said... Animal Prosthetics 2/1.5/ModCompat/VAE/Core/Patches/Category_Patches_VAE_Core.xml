@@ -10,7 +10,6 @@
 				]/recipeUsers</xpath>
 				<value>
 					<li>AEXP_Coyote</li>
-					<li>AEXP_Hippopotamus</li>
 					<li>AEXP_Cheetah</li>
 					<li>AEXP_Kangaroo</li>
 					<li>AEXP_ArcticCoyote</li>
@@ -42,14 +41,10 @@
 					<li>AEXP_WelshTerrier</li>
 					<li>AEXP_Camel</li>
 					<li>AEXP_RedPanda</li>
-					<li>AEXP_Badger</li>
-					<li>AEXP_Gorilla</li>
 					<li>AEXP_Jaguar</li>
 					<li>AEXP_Lemur</li>
 					<li>AEXP_Mandrill</li>
-					<li>AEXP_Tiger</li>
 					<li>AEXP_IndianElephant</li>
-					<li>AEXP_Muskox</li>
 					<li>AEXP_MegaWolverine</li>
 				</value>
 	</Operation>
@@ -66,15 +61,9 @@
 					<li>AEXP_DesertTortoise</li>
 					<li>AEXP_GilaMonster</li>
 					<li>AEXP_Megascorpion</li>
-					<li>AEXP_Penguin</li>
-					<li>AEXP_Seal</li>
-					<li>AEXP_Walrus</li>
 					<li>AEXP_WildGoose</li>
 					<li>AEXP_Beaver</li>
 					<li>AEXP_Tapir</li>
-					<li>AEXP_Alligator</li>
-					<li>AEXP_Moose</li>
-					<li>AEXP_Porcupine</li>
 				</value>
 	</Operation>
 	
@@ -87,7 +76,6 @@
 					<li>AEXP_Boombat</li>
 					<li>AEXP_Koala</li>
 					<li>AEXP_Platypus</li>
-					<li>AEXP_Otter</li>
 					<li>AEXP_Rattlesnake</li>
 					<li>AEXP_Hedgehog</li>
 					<li>AEXP_Anaconda</li>

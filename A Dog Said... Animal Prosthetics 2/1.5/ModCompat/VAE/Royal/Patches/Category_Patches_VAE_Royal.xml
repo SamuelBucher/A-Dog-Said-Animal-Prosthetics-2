@@ -24,8 +24,6 @@
 				]/recipeUsers</xpath>
 				<value>
 					<li>VAERoy_Crane</li>
-					<li>VAERoy_Peacock</li>
-					<li>VAERoy_Swan</li>
 				</value>
 	</Operation>
 	
@@ -36,7 +34,6 @@
 				]/recipeUsers</xpath>
 				<value>
 					<li>VAERoy_Pheasant</li>
-					<li>VAERoy_Quail</li>
 				</value>
 	</Operation>
 	
