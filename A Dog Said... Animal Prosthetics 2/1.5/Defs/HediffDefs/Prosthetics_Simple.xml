@@ -183,6 +183,7 @@
 		<appliedOnFixedBodyParts>
 			<li>Leg</li>
 			<li>InsectLeg</li>
+			<li MayRequire="el.kenshifauna">KenshiFauna_TremorLeg</li>
 		</appliedOnFixedBodyParts>
 		<ingredients>
 			<li>

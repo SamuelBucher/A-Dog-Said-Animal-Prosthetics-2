@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	
+	<HediffDef ParentName="AddedBionicBodyPartAnimalBase">
+		<defName>BionicPincerAnimal</defName>
+		<label>bionic animal pincer</label>
+		<labelNoun>a bionic animal pincer</labelNoun>
+		<description>An installed bionic animal pincer.</description>
+		<descriptionHyperlinks><ThingDef>BionicPincerAnimal</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>BionicPincerAnimal</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1.2</partEfficiency>
+		</addedPartProps>
+		<comps>
+			<li Class="HediffCompProperties_VerbGiver">
+				<tools>
+					<li>
+						<label>bionic animal pincer</label>
+						<capacities>
+							<li>Scratch</li>
+						</capacities>
+						<power>22</power>
+						<cooldownTime>1.5</cooldownTime>
+						<linkedBodyPartsGroup>FrontLeftClaws</linkedBodyPartsGroup>
+						<surpriseAttack>
+						  <extraMeleeDamages>
+							<li>
+							  <def>Stun</def>
+							  <amount>18</amount>
+							</li>
+						  </extraMeleeDamages>
+						</surpriseAttack>
+					</li>
+				</tools>
+			</li>
+		</comps>
+	</HediffDef>
+
+	<ThingDef ParentName="BodyPartBionicAnimalBase">
+		<defName>BionicPincerAnimal</defName>
+		<label>bionic animal pincer</label>
+		<description>An advanced artificial animal pincer. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological pincer in almost every way.</description>
+		<descriptionHyperlinks><RecipeDef>InstallBionicPincerAnimal</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Plasteel>12</Plasteel>
+			<ComponentSpacer>3</ComponentSpacer>
+		</costList>
+		<statBases>
+			<Mass>5</Mass>
+		</statBases>
+	</ThingDef>
+
+	<RecipeDef ParentName="SurgeryInstallBionicBodyPartAnimalBase">
+		<defName>InstallBionicPincerAnimal</defName>
+		<label>install bionic animal pincer</label>
+		<description>Installs bionic pincer.</description>
+		<descriptionHyperlinks>
+			<ThingDef>BionicPincerAnimal</ThingDef>
+			<HediffDef>BionicPincerAnimal</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing bionic animal pincer.</jobString>
+		<addsHediff>BionicPincerAnimal</addsHediff>
+		<appliedOnFixedBodyParts>
+			<li>KenshiFauna_Pincer</li>
+		</appliedOnFixedBodyParts>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>BionicPincerAnimal</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>BionicPincerAnimal</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<uiIconThing>BionicPincerAnimal</uiIconThing>
+		<recipeUsers>
+		</recipeUsers>
+	</RecipeDef>
+	
+
+	
+	<HediffDef ParentName="AddedBionicBodyPartAnimalBase">
+		<defName>BionicTremorLegAnimal</defName>
+		<label>bionic animal tremor leg</label>
+		<labelNoun>a bionic animal tremor leg</labelNoun>
+		<description>An installed bionic animal tremor leg.</description>
+		<descriptionHyperlinks><ThingDef>BionicTremorLegAnimal</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>BionicTremorLegAnimal</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1.2</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+
+	<ThingDef ParentName="BodyPartBionicAnimalBase">
+		<defName>BionicTremorLegAnimal</defName>
+		<label>bionic animal tremor leg</label>
+		<description>An advanced artificial animal tremor leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological tremor leg in almost every way.</description>
+		<descriptionHyperlinks><RecipeDef>InstallBionicTremorLegAnimal</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Plasteel>12</Plasteel>
+			<ComponentSpacer>3</ComponentSpacer>
+		</costList>
+		<statBases>
+			<Mass>5</Mass>
+		</statBases>
+	</ThingDef>
+
+	<RecipeDef ParentName="SurgeryInstallBionicBodyPartAnimalBase">
+		<defName>InstallBionicTremorLegAnimal</defName>
+		<label>install bionic animal tremor leg</label>
+		<description>Installs bionic tremor leg.</description>
+		<descriptionHyperlinks>
+			<ThingDef>BionicTremorLegAnimal</ThingDef>
+			<HediffDef>BionicTremorLegAnimal</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing bionic animal tremor leg.</jobString>
+		<addsHediff>BionicTremorLegAnimal</addsHediff>
+		<appliedOnFixedBodyParts>
+			<li>KenshiFauna_TremorLeg</li>
+		</appliedOnFixedBodyParts>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>BionicTremorLegAnimal</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>BionicTremorLegAnimal</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<uiIconThing>BionicTremorLegAnimal</uiIconThing>
+		<recipeUsers>
+		</recipeUsers>
+	</RecipeDef>
+</Defs>

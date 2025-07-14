@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/RecipeDef[
+			@Name="ADS_Cat3" or
+			@Name="ADS_Cat2" or
+			@Name="ADS_Cat1"
+			]/recipeUsers</xpath>
+		<value>
+			<li>KenshiFauna_Bonedog</li>
+			<li>KenshiFauna_Gutter</li>
+			<li>KenshiFauna_GiantBlindCrab</li>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/RecipeDef[
+			@Name="ADS_Cat2" or
+			@Name="ADS_Cat1"
+			]/recipeUsers</xpath>
+		<value>
+			<li>KenshiFauna_Gorillo</li>
+			<li>KenshiFauna_Landbat</li>
+			<li>KenshiFauna_Bloodspider</li>
+			<li>KenshiFauna_Skinspider</li>
+			<li>KenshiFauna_SandSkimmer</li>
+			<li>KenshiFauna_Leviathan</li>
+			<li>KenshiFauna_ElephantTurtle</li>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/RecipeDef[
+			@Name="ADS_Cat1"
+			]/recipeUsers</xpath>
+		<value>
+			<li>KenshiFauna_Garru</li>
+			<li>KenshiFauna_Goat</li>
+			<li>KenshiFauna_Bull</li>
+			<li>KenshiFauna_WaterRaptor</li>
+		</value>
+	</Operation>
+</Patch>
