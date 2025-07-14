@@ -37,6 +37,16 @@
 			<li>Monkey</li>
 			<li>Lynx</li>
 			<li MayRequire="ludeon.rimworld.odyssey">BogHound</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Mastodon</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Cat_Scimitar</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Wolf_Great</li>
+			<li MayRequire="ludeon.rimworld.odyssey">AlphaThrumbo</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Tiger</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Gorilla</li>
+			<li MayRequire="ludeon.rimworld.odyssey">SeaLion</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Seal</li>
+			<li MayRequire="ludeon.rimworld.odyssey">HiveQueen</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Locust</li>
 		</recipeUsers>
 	</RecipeDef>
 	
@@ -74,6 +84,16 @@
 			<li>Monkey</li>
 			<li>Lynx</li>
 			<li MayRequire="ludeon.rimworld.odyssey">BogHound</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Mastodon</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Cat_Scimitar</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Wolf_Great</li>
+			<li MayRequire="ludeon.rimworld.odyssey">AlphaThrumbo</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Tiger</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Gorilla</li>
+			<li MayRequire="ludeon.rimworld.odyssey">SeaLion</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Seal</li>
+			<li MayRequire="ludeon.rimworld.odyssey">HiveQueen</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Locust</li>
 		
 			<li>Capybara</li>
 			<li>Cassowary</li>
@@ -108,6 +128,22 @@
 			<li MayRequire="ludeon.rimworld.ideology">Dryad_Clawer</li>
 			<li MayRequire="ludeon.rimworld.ideology">Dryad_Barkskin</li>
 			<li MayRequire="ludeon.rimworld.odyssey">MonitorLizard</li>
+			<li MayRequire="ludeon.rimworld.odyssey">MonitorLizard</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Wolverine</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Moose</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Muskox</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Panda</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Hippo</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Megavole</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Alligator</li>
+			<li MayRequire="ludeon.rimworld.odyssey">ColossusToad</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Macaw</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Crow</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Vulture</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Walrus</li>
+			<li MayRequire="ludeon.rimworld.odyssey">Otter</li>
+			<li MayRequire="ludeon.rimworld.odyssey">SeaTurtle</li>
+			<li MayRequire="ludeon.rimworld.odyssey">StoneCrab</li>
 		</recipeUsers>
 	</RecipeDef>
 	
