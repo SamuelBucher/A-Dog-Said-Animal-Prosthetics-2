@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/RecipeDef[
+			@Name="ADS_Cat3" or
+			@Name="ADS_Cat2" or
+			@Name="ADS_Cat1"
+			]/recipeUsers</xpath>
+		<value>
+			<li>Enhydriodon</li>
+			<li>Castoroides</li>
+			<li>Dinopithecus</li>
+			<li>Pulmonoscorpius</li>
+			<li>Purussaurus</li>
+			<li>Platybelodon</li>
+			<li>Zygolophodon</li>
+			<li>Josephoartigasia</li>
+			<li>Megalochelys</li>
+			<li>Deinotherium</li>
+			<li>Quinkana</li>
+			<li>Andrewsarchus</li>
+			<li>Dinocrocuta</li>
+			<li>ShortfacedBear</li>
+			<li>Diprotodon</li>
+			<li>Gomphotaria</li>
+			<li>Megalania</li>
+			<li>Procoptodon</li>
+			<li>Chalicotherium</li>
+			<li>Smilodon</li>
+			<li>Elasmotherium</li>
+			<li>WoollyMammoth</li>
+			<li>Paraceratherium</li>
+			<li>Gigantopithecus</li>
+			<li>Daeodon</li>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/RecipeDef[
+			@Name="ADS_Cat2" or
+			@Name="ADS_Cat1"
+			]/recipeUsers</xpath>
+		<value>
+			<li>Uintatherium</li>
+			<li>Meganeura</li>
+			<li>Gigantophis</li>
+			<li>Palaeeudyptes</li>
+			<li>Aurochs</li>
+			<li>Macrauchenia</li>
+			<li>Dinornis</li>
+			<li>Sivatherium</li>
+			<li>Megaloceros</li>
+			<li>Titanoboa</li>
+			<li>Titanis</li>
+			<li>Doedicurus</li>
+			<li>Arthropleura</li>
+		</value>
+	</Operation>
+</Patch>
