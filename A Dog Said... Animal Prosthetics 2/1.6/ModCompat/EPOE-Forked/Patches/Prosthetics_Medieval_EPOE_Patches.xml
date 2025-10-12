@@ -28,5 +28,17 @@
 			<partEfficiency>0.6</partEfficiency>
 		</value>
 	</Operation>
+
+
+	<!-- [CZK] Eye Prosthetics (Continued) patch -->	
+	
+	<Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>[CZK] Eye Prosthetics (Continued)</li>
+        </mods>
+		<match Class="PatchOperationRemove">
+			<xpath>/Defs/RecipeDef[defName="InstallGoldenEyeAnimal"]</xpath>
+		</match>
+	</Operation>
 	
 </Patch>
