@@ -29,6 +29,7 @@
 		<li IfModActive="Erin.Wildlife">1.4/ModCompat/Erin/Wildlife</li>
 		<li IfModActive="oblitus.housekeeperassistancecat">1.4/ModCompat/HousekeeperAssistanceCat</li>
 		<li IfModActive="onyxae.dragonsdescent">1.4/ModCompat/OttersHoldHands/DragonsDescent</li>
+		<li IfModActive="tachyonite.pawnmorpherpublic">1.4/ModCompat/Pawnmorpher</li>
 	</v1.4>
 	<v1.5>
 		<li>/</li>
@@ -64,6 +65,7 @@
 		<li IfModActive="choosechee.anomalyallies">1.5/ModCompat/ChimeraCreation</li>
 		<li IfModActive="el.kenshifauna">1.5/ModCompat/KenshiFauna</li>
 		<li IfModActive="abrolo.grimstone.beasts">1.5/ModCompat/GrimstoneBeasts</li>
+		<li IfModActive="tachyonite.pawnmorpherpublic">1.5/ModCompat/Pawnmorpher</li>
 	  </v1.5>
 	<v1.6>
 		<li>/</li>
@@ -100,5 +102,6 @@
 		<li IfModActive="el.kenshifauna">1.6/ModCompat/KenshiFauna</li>
 		<li IfModActive="abrolo.grimstone.beasts">1.6/ModCompat/GrimstoneBeasts</li>
 		<li IfModActive="spino.megafauna">1.6/ModCompat/Megafauna</li>
+		<li IfModActive="tachyonite.pawnmorpherpublic">1.6/ModCompat/Pawnmorpher</li>
 	  </v1.6>
 </loadFolders>
