@@ -30,6 +30,8 @@
 		<li IfModActive="oblitus.housekeeperassistancecat">1.4/ModCompat/HousekeeperAssistanceCat</li>
 		<li IfModActive="onyxae.dragonsdescent">1.4/ModCompat/OttersHoldHands/DragonsDescent</li>
 		<li IfModActive="tachyonite.pawnmorpherpublic">1.4/ModCompat/Pawnmorpher</li>
+		<li IfModActive="Rihlsul.AlbinoFluffy">1.4/ModCompat/Rihlsul/AlbinoFluffy</li>
+		<li IfModActive="Rihlsul.BigFluffy">1.4/ModCompat/Rihlsul/BigFluffy</li>
 	</v1.4>
 	<v1.5>
 		<li>/</li>
@@ -66,6 +68,8 @@
 		<li IfModActive="el.kenshifauna">1.5/ModCompat/KenshiFauna</li>
 		<li IfModActive="abrolo.grimstone.beasts">1.5/ModCompat/GrimstoneBeasts</li>
 		<li IfModActive="tachyonite.pawnmorpherpublic">1.5/ModCompat/Pawnmorpher</li>
+		<li IfModActive="Rihlsul.AlbinoFluffy">1.5/ModCompat/Rihlsul/AlbinoFluffy</li>
+		<li IfModActive="Rihlsul.BigFluffy">1.5/ModCompat/Rihlsul/BigFluffy</li>
 	  </v1.5>
 	<v1.6>
 		<li>/</li>
@@ -103,5 +107,7 @@
 		<li IfModActive="abrolo.grimstone.beasts">1.6/ModCompat/GrimstoneBeasts</li>
 		<li IfModActive="spino.megafauna">1.6/ModCompat/Megafauna</li>
 		<li IfModActive="tachyonite.pawnmorpherpublic">1.6/ModCompat/Pawnmorpher</li>
+		<li IfModActive="Rihlsul.AlbinoFluffy">1.6/ModCompat/Rihlsul/AlbinoFluffy</li>
+		<li IfModActive="Rihlsul.BigFluffy">1.6/ModCompat/Rihlsul/BigFluffy</li>
 	  </v1.6>
 </loadFolders>
