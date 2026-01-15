@@ -1,0 +1,1900 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+	
+	<!-- GR_Bearalope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Bearalope</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Bearchicken -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Bearchicken</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Bearffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Bearffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Bearwolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Bearwolf</li>
+				</value>
+	</Operation>
+	
+	<!-- GR_Bearmole -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Bearmole</li>
+				</value>
+	</Operation>
+	
+	<!-- GR_Bearcat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Bearcat</li>
+				</value>
+	</Operation>
+	
+	<!-- GR_Bearman -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Bearman</li>
+				</value>
+	</Operation>
+	
+	<!-- GR_Chickenbear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Chickenbear</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Chickenlope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Chickenlope</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Chickenffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Chickenffalo</li>
+				</value>
+	</Operation>
+	
+	<!-- GR_Chickenwolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Chickenwolf</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Chickenrabbit -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Chickenrabbit</li>
+				</value>
+	</Operation>
+	
+	<!-- GR_Chickencat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Chickencat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Turkeyman -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Turkeyman</li>
+				</value>
+	</Operation>
+	
+	<!-- GR_Boomabear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Boomabear</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Boomachicken -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Boomachicken</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Boomffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Boomffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Boomwolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Boomwolf</li>
+				</value>
+	</Operation>
+	
+	<!-- GR_Boomsquirrel -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Boomsquirrel</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Boomcat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Boomcat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Booman -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Booman</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Muffalobear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Muffalobear</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Muffalope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Muffalope</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Muffalochicken -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Muffalochicken</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Muffalowolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Muffalowolf</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Muffalocat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Muffalocat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Muffalorat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Muffalorat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Muffaloman -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Muffaloman</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Wolfbear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Wolfbear</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Wolfalope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Wolfalope</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Wolfchicken -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Wolfchicken</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Wolffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Wolffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Wolfbeaver -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Wolfbeaver</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Wolfcat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Wolfcat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Dogman -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Dogman</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Molebear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Molebear</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Squirralope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Squirralope</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Rabbitchicken -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Rabbitchicken</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Ratffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Ratffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Beaverwolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Beaverwolf</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Rabbitcat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Rabbitcat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Moleman -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Moleman</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Catbear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Catbear</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Catalope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Catalope</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Catchicken -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Catchicken</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Catffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Catffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Catrabbit -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Catrabbit</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Catwolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Catwolf</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Catman -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Catman</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Manbear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Manbear</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Manalope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Manalope</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Manchicken -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Manchicken</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Manffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Manffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Manwolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Manwolf</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mancat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mancat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mansquirrel -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mansquirrel</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Bearscarab -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Bearscarab</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Boombeetle -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Boombeetle</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Chickenspider -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Chickenspider</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Muffalopede -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Muffalopede</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Wolfscarab -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Wolfscarab</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Spidercat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Spidercat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Manscarab -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Manscarab</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Bearodile -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Bearodile</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Boomsnake -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Boomsnake</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Chickenlizard -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Chickenlizard</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Muffalokomodo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Muffalokomodo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Spidersnake -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Spidersnake</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Wolfsnake -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Wolfsnake</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Snakecat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Snakecat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Lizardman -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Lizardman</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Bearhorse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Bearhorse</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Boomhorse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Boomhorse</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Chickenhorse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Chickenhorse</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Cathorse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Cathorse</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Molehorse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Molehorse</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Wolfhorse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Wolfhorse</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Muffalohorse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Muffalohorse</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Crocorse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Crocorse</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Spiderhorse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Spiderhorse</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Hurseman -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Hurseman</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Thrumbear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Thrumbear</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Thrumbalope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Thrumbalope</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Thrumbochicken -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Thrumbochicken</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Thrumffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Thrumffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Thrumwolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Thrumwolf</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Thrumbocat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Thrumbocat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Thrumbospider -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Thrumbospider</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Thrumbolizard -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Thrumbolizard</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Thrumborat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Thrumborat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Thrumhorse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Thrumhorse</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Thrumboman -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Thrumboman</li>
+				</value>
+	</Operation>
+
+	<!-- GR_ParagonBear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_ParagonBear</li>
+				</value>
+	</Operation>
+
+	<!-- GR_ParagonBoomalope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_ParagonBoomalope</li>
+				</value>
+	</Operation>
+
+	<!-- GR_ParagonChicken -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_ParagonChicken</li>
+				</value>
+	</Operation>
+
+	<!-- GR_ParagonMuffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_ParagonMuffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_ParagonWolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_ParagonWolf</li>
+				</value>
+	</Operation>
+
+	<!-- GR_ParagonRat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_ParagonRat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_ParagonIguana -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_ParagonIguana</li>
+				</value>
+	</Operation>
+
+	<!-- GR_ParagonHorse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_ParagonHorse</li>
+				</value>
+	</Operation>
+
+	<!-- GR_ParagonThrumbo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_ParagonThrumbo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_ParagonHumanoid -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_ParagonHumanoid</li>
+				</value>
+	</Operation>
+
+	<!-- GR_ParagonFeline -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_ParagonFeline</li>
+				</value>
+	</Operation>
+
+	<!-- GR_ParagonInsectoid -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_ParagonInsectoid</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mechabear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mechabear</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mechalope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mechalope</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mechachicken -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mechachicken</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mechaspider -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mechaspider</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mechamuffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mechamuffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mecharat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mecharat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mechaturtle -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mechaturtle</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mechawolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mechawolf</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mechathrumbo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mechathrumbo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mechacat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mechacat</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mechahorse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mechahorse</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mechamime -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mechamime</li>
+				</value>
+	</Operation>
+
+	<!-- GR_BearBug -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_BearBug</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Boomalisk -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Boomalisk</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Needlechicken -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Needlechicken</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Groundffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Groundffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_MeadowLizard -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_MeadowLizard</li>
+				</value>
+	</Operation>
+
+	<!-- GR_AnimusHare -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_AnimusHare</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Nighthrumbo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Nighthrumbo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_WolfShrimp -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_WolfShrimp</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Spinobear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Spinobear</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Parasaurolope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Parasaurolope</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Chickennathus -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Chickennathus</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Diplobeetle -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Diplobeetle</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Triceraffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Triceraffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Raptortoise -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Raptortoise</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Stegothrumbo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Stegothrumbo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Velociwolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Velociwolf</li>
+				</value>
+	</Operation>
+
+	<!-- GR_EldritchBear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_EldritchBear</li>
+				</value>
+	</Operation>
+
+	<!-- GR_EldritchBoomalope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_EldritchBoomalope</li>
+				</value>
+	</Operation>
+
+	<!-- GR_EldritchChicken -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_EldritchChicken</li>
+				</value>
+	</Operation>
+
+	<!-- GR_EldritchInsectoid -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_EldritchInsectoid</li>
+				</value>
+	</Operation>
+
+	<!-- GR_EldritchMuffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_EldritchMuffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_EldritchReptile -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_EldritchReptile</li>
+				</value>
+	</Operation>
+
+	<!-- GR_EldritchThrumbo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_EldritchThrumbo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_EldritchWolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_EldritchWolf</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Cathulhu -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Cathulhu</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Elasmobearium -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Elasmobearium</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Boomnotherium -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Boomnotherium</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Chickenlodon -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Chickenlodon</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Mantistanis -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Mantistanis</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Paraceramuffalo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Paraceramuffalo</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Lizardochs -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Lizardochs</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Doedicoon -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Doedicoon</li>
+				</value>
+	</Operation>
+
+	<!-- GR_Thrumdraeodon -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_Thrumdraeodon</li>
+				</value>
+	</Operation>
+
+	<!-- GR_WoolyWolf -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_WoolyWolf</li>
+				</value>
+	</Operation>
+
+	<!-- GR_BeeHybrid_Bearbee -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_BeeHybrid_Bearbee</li>
+				</value>
+	</Operation>
+
+	<!-- GR_BeeHybrid_Boombee -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_BeeHybrid_Boombee</li>
+				</value>
+	</Operation>
+
+	<!-- GR_BeeHybrid_Catbee -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_BeeHybrid_Catbee</li>
+				</value>
+	</Operation>
+
+	<!-- GR_BeeHybrid_Chickenbee -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_BeeHybrid_Chickenbee</li>
+				</value>
+	</Operation>
+
+	<!-- GR_BeeHybrid_Spiderbee -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_BeeHybrid_Spiderbee</li>
+				</value>
+	</Operation>
+
+	<!-- GR_BeeHybrid_Muffalobee -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_BeeHybrid_Muffalobee</li>
+				</value>
+	</Operation>
+
+	<!-- GR_BeeHybrid_Lizardbee -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_BeeHybrid_Lizardbee</li>
+				</value>
+	</Operation>
+
+	<!-- GR_BeeHybrid_Mousebee -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_BeeHybrid_Mousebee</li>
+				</value>
+	</Operation>
+
+	<!-- GR_BeeHybrid_Thrumbee -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_BeeHybrid_Thrumbee</li>
+				</value>
+	</Operation>
+
+	<!-- GR_BeeHybrid_Wolfbee -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GR_BeeHybrid_Wolfbee</li>
+				</value>
+	</Operation>
+</Patch>
