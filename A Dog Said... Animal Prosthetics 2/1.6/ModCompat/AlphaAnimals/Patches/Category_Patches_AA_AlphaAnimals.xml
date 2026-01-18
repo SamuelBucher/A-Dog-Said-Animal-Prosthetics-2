@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+	
+	<!-- AA_Aerofleet -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Aerofleet</li>
+				</value>
+	</Operation>
+
+	<!-- AA_BloodShrimp -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_BloodShrimp</li>
+				</value>
+	</Operation>
+
+	<!-- AA_BlackScarab -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_BlackScarab</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Cactipine -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Cactipine</li>
+				</value>
+	</Operation>
+
+	<!-- AA_DuskRat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_DuskRat</li>
+				</value>
+	</Operation>
+
+	<!-- AA_FissionMouse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_FissionMouse</li>
+				</value>
+	</Operation>
+
+	<!-- AA_FireWasp -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_FireWasp</li>
+				</value>
+	</Operation>
+
+	<!-- AA_InfectedAerofleet -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_InfectedAerofleet</li>
+				</value>
+	</Operation>
+
+	<!-- AA_BoulderMit -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_BoulderMit</li>
+				</value>
+	</Operation>
+
+	<!-- AA_ChameleonYak -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_ChameleonYak</li>
+				</value>
+	</Operation>
+
+	<!-- AA_CrystalMit -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_CrystalMit</li>
+				</value>
+	</Operation>
+
+	<!-- AA_CrepuscularBeetle -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_CrepuscularBeetle</li>
+				</value>
+	</Operation>
+
+	<!-- AA_ChemfuelMyrmidon -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_ChemfuelMyrmidon</li>
+				</value>
+	</Operation>
+
+	<!-- AA_DevilSheep -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_DevilSheep</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Drainer -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Drainer</li>
+				</value>
+	</Operation>
+
+	<!-- AA_FlamingoPhoenix -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_FlamingoPhoenix</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Bobeene -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Bobeene</li>
+				</value>
+	</Operation>
+
+	<!-- AA_GiantCrownedSilkie -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_GiantCrownedSilkie</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Gigantelope -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Gigantelope</li>
+				</value>
+	</Operation>
+
+	<!-- AA_GreyCoatedMouflon -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_GreyCoatedMouflon</li>
+				</value>
+	</Operation>
+
+	<!-- AA_IronhuskBeetle -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_IronhuskBeetle</li>
+				</value>
+	</Operation>
+
+	<!-- AA_LuciferBug -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_LuciferBug</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Metallovore -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Metallovore</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Murkling -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Murkling</li>
+				</value>
+	</Operation>
+
+	<!-- AA_NightMule -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_NightMule</li>
+				</value>
+	</Operation>
+
+	<!-- AA_NightRam -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_NightRam</li>
+				</value>
+	</Operation>
+
+	<!-- AA_PebbleMit -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_PebbleMit</li>
+				</value>
+	</Operation>
+
+	<!-- AA_FrostboundBehemoth -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_FrostboundBehemoth</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Radyak -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Radyak</li>
+				</value>
+	</Operation>
+
+	<!-- AA_ShockGoat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_ShockGoat</li>
+				</value>
+	</Operation>
+
+	<!-- AA_SpinedGow -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_SpinedGow</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Terramorph -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Terramorph</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Thunderox -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Thunderox</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Agaripawn -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Agaripawn</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Agaripod -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Agaripod</li>
+				</value>
+	</Operation>
+
+	<!-- AA_AngelMoth -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_AngelMoth</li>
+				</value>
+	</Operation>
+
+	<!-- AA_AnimaColossus -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_AnimaColossus</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Animalisk -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Animalisk</li>
+				</value>
+	</Operation>
+
+	<!-- AA_AnimusVox -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_AnimusVox</li>
+				</value>
+	</Operation>
+
+	<!-- AA_ArcticLion -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_ArcticLion</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Atispec -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Atispec</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Barbslinger -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Barbslinger</li>
+				</value>
+	</Operation>
+
+	<!-- AA_BedBug -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_BedBug</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Behemoth -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Behemoth</li>
+				</value>
+	</Operation>
+
+	<!-- AA_BlackSpelopede -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_BlackSpelopede</li>
+				</value>
+	</Operation>
+
+	<!-- AA_BlackSpider -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_BlackSpider</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Blizzarisk -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Blizzarisk</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Bumbledrone -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Bumbledrone</li>
+				</value>
+	</Operation>
+
+	<!-- AA_BumbledroneHierophant -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_BumbledroneHierophant</li>
+				</value>
+	</Operation>
+
+	<!-- AA_BumbledroneQueen -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_BumbledroneQueen</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Cinderlisk -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Cinderlisk</li>
+				</value>
+	</Operation>
+
+	<!-- AA_CrescendoAnole -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_CrescendoAnole</li>
+				</value>
+	</Operation>
+
+	<!-- AA_CrystallineCaracal -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_CrystallineCaracal</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Darkbeast -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Darkbeast</li>
+				</value>
+	</Operation>
+
+	<!-- AA_DarkVandal -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_DarkVandal</li>
+				</value>
+	</Operation>
+
+	<!-- AA_DecayDrake -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_DecayDrake</li>
+				</value>
+	</Operation>
+
+	<!-- AA_DesertAve -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_DesertAve</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Dunealisk -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Dunealisk</li>
+				</value>
+	</Operation>
+
+	<!-- AA_DuskProwler -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_DuskProwler</li>
+				</value>
+	</Operation>
+
+	<!-- AA_EmpressButterfly -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_EmpressButterfly</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Erin -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Erin</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Feralisk -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Feralisk</li>
+				</value>
+	</Operation>
+
+	<!-- AA_FrostAve -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_FrostAve</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Frostling -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Frostling</li>
+				</value>
+	</Operation>
+
+	<!-- AA_FrostLynx -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_FrostLynx</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Gallatross -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Gallatross</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Genix -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Genix</li>
+				</value>
+	</Operation>
+
+	<!-- AA_GreatDevourer -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_GreatDevourer</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Groundrunner -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Groundrunner</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Junglelisk -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Junglelisk</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Lockjaw -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Lockjaw</li>
+				</value>
+	</Operation>
+
+	<!-- AA_MammothWorm -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_MammothWorm</li>
+				</value>
+	</Operation>
+
+	<!-- AA_MatureFleshbeast -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_MatureFleshbeast</li>
+				</value>
+	</Operation>
+
+	<!-- AA_MeadowAve -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_MeadowAve</li>
+				</value>
+	</Operation>
+
+	<!-- AA_MegaLouse -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_MegaLouse</li>
+				</value>
+	</Operation>
+
+	<!-- AA_MycoidColossus -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_MycoidColossus</li>
+				</value>
+	</Operation>
+
+	<!-- AA_NightAve -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_NightAve</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Nightling -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Nightling</li>
+				</value>
+	</Operation>
+
+	<!-- AA_OcularNightling -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_OcularNightling</li>
+				</value>
+	</Operation>
+
+	<!-- AA_OvergrownColossus -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_OvergrownColossus</li>
+				</value>
+	</Operation>
+
+	<!-- AA_PedigreedRaptor -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_PedigreedRaptor</li>
+				</value>
+	</Operation>
+
+	<!-- AA_PhoenixOwlcat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_PhoenixOwlcat</li>
+				</value>
+	</Operation>
+
+	<!-- AA_RaptorShrimp -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_RaptorShrimp</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Ravager -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Ravager</li>
+				</value>
+	</Operation>
+
+	<!-- AA_RayHound -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_RayHound</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Razorjack -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Razorjack</li>
+				</value>
+	</Operation>
+
+	<!-- AA_RipperHound -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_RipperHound</li>
+				</value>
+	</Operation>
+
+	<!-- AA_RoughPlatedMonitor -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_RoughPlatedMonitor</li>
+				</value>
+	</Operation>
+
+	<!-- AA_RoyalAve -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_RoyalAve</li>
+				</value>
+	</Operation>
+
+	<!-- AA_SandLion -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_SandLion</li>
+				</value>
+	</Operation>
+
+	<!-- AA_SandProwler -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_SandProwler</li>
+				</value>
+	</Operation>
+
+	<!-- AA_ShadowCharger -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_ShadowCharger</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Skiphound -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Skiphound</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Skyeel -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Skyeel</li>
+				</value>
+	</Operation>
+
+	<!-- AA_TetraSlug -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_TetraSlug</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Thermadon -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Thermadon</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Thunderbeast -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Thunderbeast</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Wildpawn -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Wildpawn</li>
+				</value>
+	</Operation>
+
+	<!-- AA_Wildpod -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_Wildpod</li>
+				</value>
+	</Operation>
+
+	<!-- AA_WindBeast -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>AA_WindBeast</li>
+				</value>
+	</Operation>
+
+	<!-- VFEI2_BlackEmpress -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>VFEI2_BlackEmpress</li>
+				</value>
+	</Operation>
+
+	<!-- VFEI2_BlackQueen -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>VFEI2_BlackQueen</li>
+				</value>
+	</Operation>
+</Patch>

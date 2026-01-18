@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+	
+	<!-- GuldenRuneBear -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GuldenRuneBear</li>
+				</value>
+	</Operation>
+	
+	<!-- GuldenRabbitgaroo -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GuldenRabbitgaroo</li>
+				</value>
+	</Operation>
+	
+	<!-- Gulden_Animal_Capricorn -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat3" or
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>Gulden_Animal_Capricorn</li>
+				</value>
+	</Operation>
+	
+	<!-- Gulden_Rat -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>Gulden_Rat</li>
+				</value>
+	</Operation>
+
+	<!-- GuldenSheep -->
+	<Operation Class="PatchOperationAdd">
+				<xpath>/Defs/RecipeDef[
+					@Name="ADS_Cat2" or
+					@Name="ADS_Cat1"
+				]/recipeUsers</xpath>
+				<value>
+					<li>GuldenSheep</li>
+				</value>
+	</Operation>
+</Patch>
